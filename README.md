@@ -1,4 +1,4 @@
-### Olá, Sou o Vitor Durães Atualmente Estudando Javascript FullStack
+### Olá, Sou o Vitor Durães
 
 - 🔭 Hoje estou trabalhando com Analista de Suporte
 - 🌱 Estudando Javascript Fullstack
