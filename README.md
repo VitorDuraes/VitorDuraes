@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte
 - 🌱 Estudando Javascript Fullstack
-- 📚 Fullstack Developer Formação
+- 📚 BackEnd Developer Formação
 
 <div align="center">
   <a href="https://github.com/VitorDuraes">
