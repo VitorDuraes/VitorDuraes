@@ -21,10 +21,10 @@
 </div>
 ## Status
 <div  style="display: flex;">
-    <a href="https://wakatime.com/@68589745-02a7-4d9e-b420-7571d2ac6af5" target="_blank"><img src="https://wakatime.com/badge/user/68589745-02a7-4d9e-b420-7571d2ac6af5.svg" alt="Total time coded since May 11 2023" /></a>
+    <a href="https://github.com/VitorDuraes?tab=repositories" target="_blank"><img src="https://github.com/VitorDuraes?tab=repositories" alt="Total time coded since May 11 2023" /></a>
 </div>
     <br/>
 <div style="display: flex;justify-content: space-between;">
     <a href="https://github.com/VitorDuraes">
-    <img   src="https://github-readme-stats.vercel.app/api/wakatime/?username=VitorDuraes&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5"/>
+    <img   src="https://github.com/VitorDuraes?tab=repositories username=VitorDuraes&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5"/>
 </div>
