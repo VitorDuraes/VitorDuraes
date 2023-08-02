@@ -20,11 +20,5 @@
    <img align="center" alt="Sequelize" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
 </div>
 ## Status
-<div  style="display: flex;">
-    <a href="https://github.com/VitorDuraes?tab=repositories" target="_blank"><img src="https://github.com/VitorDuraes?tab=repositories" alt="Total time coded since May 11 2023" /></a>
-</div>
-    <br/>
-<div style="display: flex;justify-content: space-between;">
-    <a href="https://github.com/VitorDuraes">
-    <img   src="https://github.com/VitorDuraes?tab=repositories username=VitorDuraes&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=5"/>
-</div>
+
+![VitorDuraes's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorDuraes&show_icons=true&theme=midnight-purple)
