@@ -4,22 +4,54 @@
 - 🌱 Estudando Back-end
 - 📚 BackEnd Developer Formação
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-durães-5080a2215/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandreretamero@gmail.com)
-## Techs !!
-<br>
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Express" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-   <img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-   <img align="center" alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img align="center" alt="Sequelize" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-</div>
+**Linguagens de programação:**
 
-## Status
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+  
+**Desenvolvimento back-end:**
 
-![VitorDuraes's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorDuraes&show_icons=true&theme=midnight-purple)
+![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+
+ **Database:**
+  
+  ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+
+  **ORM**
+  
+  ![](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
+  ![](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=sequelize&logoColor=white)
+
+  **Testing:**
+
+![](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Testing%20Library-E33332.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=white)
+![](https://img.shields.io/badge/Mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Chai-A30701.svg?&style=for-the-badge&logo=chai&logoColor=white)
+![](https://img.shields.io/badge/SINON.JS-995e45.svg?&style=for-the-badge&logo=sinon&logoColor=white)
+
+**Ferramentas:**
+
+  ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
+  ![](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+  ![](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+  ![](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
+
+  **Sistemas Operacionais:**
+
+  ![](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
+  ![](https://img.shields.io/badge/Kubuntu-0079C1.svg?&style=for-the-badge&logo=kubuntu&logoColor=White)
+  ![](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
+  ![](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
+
+  ## Fale comigo
+
+ [![](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&)](mailto:vitordo06@gmail.com)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ [![](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/vitor-dur%C3%A3es-5080a2215/)
+
