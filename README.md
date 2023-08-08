@@ -60,7 +60,9 @@
   ![](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
 
   ## Fale comigo
-
+<div align="center">
+ 
  [![](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&)](mailto:vitordo06@gmail.com)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/vitor-dur%C3%A3es-5080a2215/)
 
+</div>
