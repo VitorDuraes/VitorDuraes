@@ -4,6 +4,15 @@
 - 🌱 Estudando Back-end
 - 📚 BackEnd Developer Formação
 
+ ## Minhas estatísticas do github
+
+<div display="inline-block" align="left"><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VitorDuraes&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=VitorDuraes&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDuraes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
+</div>
+
 **Linguagens de programação:**
 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
