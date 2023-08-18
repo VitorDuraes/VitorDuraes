@@ -22,7 +22,6 @@
 
 ![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
 
  **Database:**
   
@@ -31,16 +30,11 @@
 
   **ORM**
   
-  ![](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
   ![](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=sequelize&logoColor=white)
 
   **Testing:**
 
 ![](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/Testing%20Library-E33332.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=white)
-![](https://img.shields.io/badge/Mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white)
-![](https://img.shields.io/badge/Chai-A30701.svg?&style=for-the-badge&logo=chai&logoColor=white)
-![](https://img.shields.io/badge/SINON.JS-995e45.svg?&style=for-the-badge&logo=sinon&logoColor=white)
 
 **Ferramentas:**
 
@@ -54,8 +48,6 @@
 
   **Sistemas Operacionais:**
 
-  ![](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
-  ![](https://img.shields.io/badge/Kubuntu-0079C1.svg?&style=for-the-badge&logo=kubuntu&logoColor=White)
   ![](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
   ![](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
 
