@@ -1,6 +1,6 @@
 ### Olá, Sou o Vitor Durães
 
-- 🔭 Atualmente estou trabalhando como Analista de Suporte
+- 🔭 Atualmente estou trabalhando como Analista de Sistemas
 - 🌱 Estudando Back-end
 - 📚 BackEnd Developer Formação
 
