@@ -17,8 +17,8 @@
 
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 
 
  **Database:**
