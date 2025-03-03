@@ -15,8 +15,8 @@
   
 **Desenvolvimento back-end:**
 
-![]([https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white))
-![]([https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white))
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
