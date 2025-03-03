@@ -12,16 +12,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=VitorDuraes&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDuraes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
 </div>
-
-**Linguagens de programação:**
-
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
-  ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
   
 **Desenvolvimento back-end:**
 
-![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![]([https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white))
+![]([https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white))
+![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
  **Database:**
   
