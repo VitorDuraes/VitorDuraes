@@ -31,6 +31,9 @@
 ![](https://img.shields.io/badge/Entity_Framework-8C3D65?style=for-the-badge&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
