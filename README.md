@@ -1,4 +1,11 @@
-### Olá, Sou o Vitor Durães
+<div>
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Sou+o+Vitor+Dur%C3%A3es;Desenvolvedor+Back-End" alt="Typing SVG" />
+    </a>
+  </p>
+</div>
+
 
 - 🔭 Atualmente estou trabalhando como Analista de Sistemas  
 - 🌱 Estudando Back-end  
@@ -11,7 +18,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=VitorDuraes&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=VitorDuraes&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDuraes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
-
 </div>
 
 <picture>
@@ -92,8 +98,10 @@
 ## 📬 Fale comigo
 
 <div align="center">
- 
+
+[![](https://img.shields.io/badge/🚀-Ver_Portfólio-8000e0?style=for-the-badge&logoColor=white)](https://portfoliovitorduraes-production.up.railway.app/)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vitordo09@hotmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-dur%C3%A3es-5080a2215/)
 
 </div>
+
