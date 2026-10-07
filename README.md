@@ -9,7 +9,7 @@
 - 🔭 Atuando como **RevOps Automation Engineer** na **Zouti**, plataforma de pagamento para criadores digitais
 - 🌊 Fundador da **WaveOps**: automação, integração, dashboards e agentes de IA supervisionados
 - 🌱 Estudando **RevOps Engineering** e **AI Engineering**: agentes, avaliação de LLM e dados para IA
-- 📚 Formação: **DevOps Engineer**
+- 📚 Formação: **ADS**
 
 ---
 
