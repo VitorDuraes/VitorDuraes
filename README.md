@@ -1,15 +1,25 @@
 <div>
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=500&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Sou+o+Vitor+Dur%C3%A3es;DevOps+%26+SRE+Engineer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&duration=4000&color=8E44AD&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Sou+o+Vitor+Dur%C3%A3es;RevOps+%26+AI+Engineer" alt="Typing SVG" />
     </a>
   </p>
 </div>
 
-- 🔭 Atualmente atuando como **Analista de Sistemas**
-- 🌱 Estudando **DevOps e Site Reliability Engineering (SRE)**
-- ☁️ Aprofundando em **AWS | Azure | Kubernetes | Terraform | CI/CD | Observabilidade**
+- 🔭 Atuando como **RevOps Automation Engineer** na **Zouti**, plataforma de pagamento para criadores digitais
+- 🌊 Fundador da **WaveOps**: automação, integração, dashboards e agentes de IA supervisionados
+- 🌱 Estudando **RevOps Engineering** e **AI Engineering**: agentes, avaliação de LLM e dados para IA
 - 📚 Formação: **DevOps Engineer**
+
+---
+
+## 🛠️ No que estou trabalhando
+
+- **Motor de RevOps:** automações tratadas como software de produção, com spec, teste e gate antes do deploy
+- **Workflows n8n em produção:** roteamento de leads, alertas de funil, sincronização entre CRM, ClickUp e Slack
+- **Dados:** pipelines EL para o BigQuery, modelos dbt na camada Gold e dashboards de receita e funil
+- **Agentes de IA:** agentes com Claude que leem dado do lake, decidem por regra em código e passam por revisão humana
+- **Customer Success Ops:** health score, ativação de sellers e migração de outras plataformas
 
 ---
 
@@ -30,66 +40,57 @@
 
 ---
 
-## ⚙️ **DevOps | SRE Stack**
+## ⚙️ Stack RevOps | AI Engineer
 
-### ☁️ Cloud & Infraestrutura
+### 🤖 IA e Agentes
 
-![](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Terraform-844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/Claude_Code-191919.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![](https://img.shields.io/badge/MCP-000000.svg?style=for-the-badge&logoColor=white)
 
----
+### 🔄 Automação e Integração
 
-### 🔧 CI/CD & Automação
+![](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![](https://img.shields.io/badge/Airbyte-615EFF.svg?style=for-the-badge&logo=airbyte&logoColor=white)
+![](https://img.shields.io/badge/Webhooks-2C3E50.svg?style=for-the-badge&logoColor=white)
 
-![](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Azure_DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 📊 Dados e Analytics
 
----
-
-### 🧠 Desenvolvimento e Integração
-
-![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 📊 Observabilidade & Monitoramento
-
-![](https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![](https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![](https://img.shields.io/badge/ELK_Stack-005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white)
+![](https://img.shields.io/badge/BigQuery-669DF6.svg?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Metabase-509EE3.svg?style=for-the-badge&logo=metabase&logoColor=white)
 ![](https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
----
+### 🧠 Desenvolvimento
 
-### 🧩 Ferramentas de Trabalho
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
 
-![](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ☁️ Infra
+
+![](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🧩 Operação e CRM
+
+![](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
-![](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=miro&logoColor=white)
-![](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white)
+![](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
-### 💻 Sistemas Operacionais
+## 🧭 Como eu trabalho
 
-![](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+- **Processo antes de código.** Classifico o problema antes de automatizar
+- **Dado com fonte.** Número sai do data warehouse, nunca da API de origem
+- **Pronto é comando que roda.** Spec, teste e verificação antes do deploy
+- **IA supervisionada.** O modelo lê, o código decide, o humano revisa
 
 ---
 
